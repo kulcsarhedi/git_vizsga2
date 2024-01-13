@@ -8,9 +8,6 @@ const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 
 
-window.onload = function() {
-    console.log("Az oldal sikeresen betöltődöt");
-};
 
 //Zenék címei
 const songs = ["hey", "summer", "ukulele", "river"];
