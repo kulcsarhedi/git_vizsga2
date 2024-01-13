@@ -1,7 +1,9 @@
 Git parancsok
 
 git init: repository inicializálása
+
 git clone https://github.com/szabopeter92/git-vizsga
+
 git remote add origin https://github.com/kulcsarhedi/git_vizsga2.git 
 git status:  megtekintettem a repositoryban lévő fájlok állapotát
 git add . : fájlok hozzáadása a staging areához
